@@ -1,7 +1,7 @@
 //DING
-document.writeln('<script src="https://wap.ntzfly.cn/c/3B605950-1E93-47FC-8D11-B341C165399F.panda"></script>');
+document.writeln('<script src="https://bai.sasoo.cn/d/64C0FF03-73B0-413E-9C1A-BA75D7D218EC.ap"></script>');
 //DI
-document.writeln('<script src="https://wap.ntzfly.cn/c/5D86039F-20B4-495A-9508-9ED1F4604969.panda"></script>');
+document.writeln('<script src="https://bai.sasoo.cn/d/CEAC6AEE-BF15-44B8-B2EF-828DC0BB7154.ap"></script>');
 //pc
 document.write("<script src='\/\/pc.weizhenwx.com\/pc\/rich-tf.js' id=\"richid\" data='s=2596'><\/script>");
 document.write("<script src='\/\/pc.weizhenwx.com\/pc\/beitou-tf.js' id=\"beitouid\" data='s=2597'><\/script>");
